@@ -20,8 +20,8 @@ This project implements a simplified version of Shamir's Secret Sharing algorith
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/catalog-placements-assignment.git
-   cd catalog-placements-assignment
+(https://github.com/KISHORE-REDDY-843/catalog/)
+
 Usage
 Place your JSON test cases in the project directory. Example JSON files are provided as testcase1.json and testcase2.json.
 
