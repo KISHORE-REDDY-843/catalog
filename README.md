@@ -95,6 +95,11 @@ Test Case 2
         "value": "642121030037605"
     }
 }
+
+
+
+
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
@@ -102,17 +107,6 @@ Acknowledgments
 Inspired by Shamir's Secret Sharing algorithm.
 Thanks
 
-### Steps to Add the README to Your GitHub Repository
-
-1. **Create a README File**: In your project directory, create a file named `README.md`.
-
-2. **Copy the Template**: Copy the above Markdown content into the `README.md` file.
-
-3. **Customize the README**: Replace placeholders like `yourusername` with your actual GitHub username, and add any relevant acknowledgments or additional information.
-
-4. **Commit and Push**: After saving the changes, commit the README to your GitHub repository:
-   ```bash
-   git add README.md
    git commit -m "Add README file"
    git push origin main
 
